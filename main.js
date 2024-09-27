@@ -21,7 +21,7 @@ function displayData(weatherUpdate){
     
 
     result.innerHTML =
-`<div class= card   text-center  style="width: 16rem;>
+`<div class= card text-center style="width: 16rem;>
   <img src="" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">${placeName}</h5>
